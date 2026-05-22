@@ -1,0 +1,501 @@
+Department,Shift,Machine_Utilization_Percent,Downtime_Minutes,Production_Time_Minutes,Delivery_Delay_Minutes,Defect_Rate_Percent,Employee_Count
+Packaging,Evening,69.12,65.8,187.81,16.39,2.12,8
+Dispatch,Night,73.67,34.77,175.61,15.01,4.42,19
+Quality Check,Morning,85.71,42.41,168.76,19.05,1.9,18
+Packaging,Morning,69.17,19.43,161.69,13.17,2.93,24
+Assembly,Morning,83.52,14.44,149.5,11.14,1.81,23
+Assembly,Morning,51.79,7.13,160.92,7.82,5.11,17
+Assembly,Morning,72.7,22.3,143.03,10.03,1.84,14
+Dispatch,Morning,81.28,71.05,178.78,17.67,3.55,25
+Quality Check,Morning,87.7,8.95,145.03,13.04,3.66,9
+Quality Check,Evening,66.82,33.93,173.47,10.12,4.2,27
+Assembly,Night,59.97,14.14,168.84,14.09,4.71,24
+Dispatch,Morning,72.39,27.98,154.6,21.26,4.14,24
+Dispatch,Evening,63.75,43.39,172.38,18.14,2.86,29
+Assembly,Evening,73.51,26.0,161.63,12.05,4.76,10
+Assembly,Night,74.93,61.79,171.66,12.78,2.79,8
+Assembly,Morning,61.81,70.68,187.8,28.49,3.84,6
+Assembly,Night,83.04,0.0,136.54,4.15,2.52,26
+Packaging,Morning,73.43,26.34,164.67,18.19,3.82,20
+Packaging,Evening,85.8,41.18,154.07,19.37,2.17,22
+Assembly,Evening,56.55,62.52,180.64,18.19,4.24,9
+Quality Check,Evening,64.83,30.92,159.33,13.32,2.52,26
+Assembly,Evening,80.17,39.6,161.66,6.76,4.16,8
+Assembly,Night,67.01,16.87,158.43,14.18,4.32,17
+Packaging,Morning,73.35,9.34,149.34,14.5,3.04,23
+Packaging,Morning,75.01,68.91,186.55,14.89,2.78,27
+Quality Check,Night,76.58,3.52,140.9,9.75,3.82,6
+Assembly,Morning,68.22,86.57,200.01,23.18,2.88,17
+Packaging,Evening,76.49,54.5,171.06,21.1,3.3,15
+Packaging,Morning,67.17,53.6,189.91,18.06,4.8,26
+Assembly,Evening,81.74,51.51,179.83,9.59,2.1,8
+Quality Check,Night,73.85,34.95,150.0,12.59,3.68,26
+Assembly,Morning,76.55,47.84,164.91,18.3,3.49,24
+Assembly,Night,100.0,36.22,142.06,19.64,1.9,24
+Dispatch,Morning,63.93,51.06,176.82,14.57,3.3,19
+Dispatch,Evening,88.89,39.33,170.42,26.84,3.77,8
+Dispatch,Night,48.41,20.99,176.11,3.68,3.98,13
+Assembly,Morning,54.22,22.59,162.13,10.57,2.48,11
+Assembly,Evening,62.59,20.31,168.08,12.63,4.51,23
+Quality Check,Night,63.22,59.42,187.78,17.91,2.64,23
+Packaging,Night,77.04,27.65,158.0,7.99,3.84,10
+Assembly,Morning,77.9,1.76,156.81,12.5,4.44,10
+Packaging,Morning,72.45,47.94,174.31,19.05,4.01,24
+Assembly,Morning,73.5,70.29,180.34,20.78,4.4,19
+Dispatch,Evening,80.28,55.46,149.5,19.98,5.01,19
+Assembly,Morning,83.33,27.93,148.44,12.07,3.8,29
+Quality Check,Night,61.73,8.26,168.63,3.15,4.24,24
+Assembly,Night,71.38,37.31,164.37,12.01,5.06,13
+Packaging,Morning,74.3,36.82,140.25,16.31,5.04,8
+Packaging,Morning,79.85,20.62,143.5,13.91,4.78,22
+Assembly,Night,67.27,51.02,186.72,17.86,3.14,22
+Dispatch,Evening,74.11,76.93,192.33,24.28,1.94,9
+Quality Check,Morning,75.3,44.45,158.03,13.76,2.68,24
+Dispatch,Morning,67.96,43.21,165.91,16.61,4.31,27
+Dispatch,Night,67.72,21.26,154.47,16.05,3.77,15
+Packaging,Morning,75.99,67.95,173.35,19.77,2.99,9
+Dispatch,Evening,73.7,38.5,143.84,9.56,3.88,26
+Assembly,Night,80.0,28.42,160.68,9.46,1.53,8
+Assembly,Morning,64.47,41.27,185.76,20.35,3.92,16
+Assembly,Night,71.49,49.44,157.28,24.38,4.54,6
+Assembly,Morning,72.71,42.78,179.94,22.29,3.91,17
+Packaging,Morning,83.14,64.12,170.93,20.78,3.53,14
+Assembly,Morning,65.6,47.68,188.38,11.14,5.32,13
+Dispatch,Evening,77.35,34.32,159.09,15.12,3.07,14
+Packaging,Evening,77.53,48.02,168.15,25.01,2.47,11
+Assembly,Night,91.46,49.99,160.55,20.59,3.62,8
+Packaging,Morning,64.93,14.07,148.6,11.07,4.92,23
+Assembly,Morning,68.43,62.99,195.0,22.59,4.14,14
+Dispatch,Evening,65.63,33.98,156.67,8.75,3.56,7
+Assembly,Morning,58.3,34.49,170.03,11.7,4.09,29
+Dispatch,Evening,92.65,55.03,164.14,12.83,1.09,25
+Quality Check,Morning,62.58,54.94,177.81,20.59,4.98,23
+Assembly,Night,66.84,25.98,169.9,17.47,4.74,25
+Assembly,Morning,88.16,56.06,176.87,17.64,1.28,6
+Dispatch,Morning,57.47,28.79,181.42,9.95,4.99,24
+Quality Check,Evening,82.56,76.39,160.42,21.36,3.28,14
+Quality Check,Morning,60.87,23.44,166.62,11.08,2.93,6
+Quality Check,Morning,87.47,44.79,167.19,12.74,1.42,6
+Assembly,Evening,53.3,24.36,158.81,15.35,4.71,28
+Packaging,Night,57.47,84.45,211.94,18.88,3.73,21
+Assembly,Night,69.55,15.24,160.18,4.45,5.34,20
+Dispatch,Evening,84.72,50.49,150.4,10.85,3.72,20
+Quality Check,Evening,74.69,25.3,163.77,5.78,3.74,18
+Assembly,Evening,71.64,32.92,165.16,16.18,3.94,11
+Assembly,Evening,88.46,49.07,165.18,18.11,3.91,25
+Assembly,Evening,96.55,64.49,151.79,20.18,3.02,15
+Assembly,Night,81.72,72.47,179.6,23.81,3.41,28
+Quality Check,Night,68.77,9.26,133.49,17.35,2.58,5
+Quality Check,Evening,70.82,45.36,147.79,13.84,6.52,15
+Dispatch,Morning,62.12,69.19,193.23,22.41,2.79,27
+Packaging,Evening,76.01,6.29,153.98,3.05,2.89,25
+Assembly,Morning,58.7,46.29,183.34,23.84,2.41,8
+Quality Check,Evening,80.52,39.96,158.93,9.77,3.51,11
+Quality Check,Evening,95.06,48.29,151.05,13.69,2.4,19
+Packaging,Night,82.18,24.55,139.57,10.69,3.66,22
+Quality Check,Morning,70.31,11.29,148.31,4.06,1.75,16
+Packaging,Morning,80.27,1.74,141.04,10.42,4.1,21
+Packaging,Night,91.21,59.53,158.4,20.0,1.63,5
+Packaging,Night,90.7,62.08,172.19,18.37,2.32,15
+Assembly,Night,64.96,46.05,177.62,9.21,4.68,5
+Assembly,Night,80.1,29.32,156.68,24.31,3.26,19
+Assembly,Morning,73.42,7.54,154.67,13.88,3.66,25
+Quality Check,Morning,83.07,51.27,159.04,30.86,3.65,14
+Assembly,Evening,78.84,17.98,154.32,8.67,3.49,11
+Packaging,Evening,51.3,25.77,170.56,18.66,4.09,6
+Dispatch,Night,71.52,28.27,163.14,18.14,3.26,14
+Assembly,Night,76.99,36.05,153.58,13.95,3.36,28
+Packaging,Night,60.66,24.82,157.26,20.78,3.07,8
+Quality Check,Evening,80.81,40.67,160.67,14.07,3.96,16
+Assembly,Evening,59.76,27.56,149.88,12.33,4.3,23
+Assembly,Evening,67.02,54.03,175.84,0.75,3.72,15
+Assembly,Evening,88.41,60.62,149.58,21.14,3.77,12
+Assembly,Evening,66.16,42.17,180.17,9.7,3.57,22
+Dispatch,Evening,80.74,49.25,175.46,14.63,2.78,15
+Dispatch,Evening,57.46,82.36,194.8,17.22,3.64,15
+Quality Check,Night,95.81,16.55,137.56,10.65,2.55,17
+Dispatch,Night,71.95,15.33,160.63,14.52,3.71,7
+Dispatch,Night,75.95,53.9,180.6,18.14,2.54,16
+Assembly,Night,76.79,78.93,188.07,25.39,2.98,7
+Dispatch,Evening,81.08,34.79,163.36,21.55,2.29,14
+Packaging,Morning,59.81,74.54,190.38,19.34,3.3,21
+Dispatch,Evening,74.95,41.93,166.03,13.9,1.52,26
+Dispatch,Morning,68.41,26.38,156.43,18.75,3.35,6
+Assembly,Night,58.1,20.19,158.29,18.21,2.39,21
+Assembly,Evening,84.87,52.59,164.02,21.59,2.29,20
+Assembly,Night,71.48,21.7,159.31,8.49,2.81,6
+Packaging,Evening,77.43,41.63,174.67,18.36,4.18,26
+Dispatch,Night,76.8,71.67,184.21,21.3,2.15,24
+Dispatch,Morning,71.65,33.86,169.42,20.34,2.66,10
+Assembly,Morning,94.75,66.28,170.5,17.08,1.88,29
+Packaging,Morning,74.53,15.71,176.68,4.02,2.69,14
+Packaging,Evening,59.42,29.32,151.96,17.85,5.4,14
+Assembly,Morning,71.0,11.86,143.44,-1.01,2.31,12
+Assembly,Evening,80.0,41.46,175.62,12.56,2.62,5
+Assembly,Morning,80.33,55.6,165.58,13.22,3.32,17
+Dispatch,Morning,64.12,41.5,182.46,11.08,4.68,28
+Assembly,Evening,84.29,64.54,173.59,15.94,2.41,13
+Packaging,Evening,57.37,25.02,190.16,19.84,2.21,26
+Quality Check,Morning,86.44,44.51,146.42,20.78,2.53,14
+Packaging,Evening,61.81,29.45,180.44,13.16,5.26,19
+Dispatch,Morning,72.74,47.23,187.65,22.75,3.65,9
+Dispatch,Evening,85.65,50.07,151.38,12.2,2.95,26
+Assembly,Night,76.2,51.65,177.86,11.76,2.13,20
+Packaging,Night,83.17,18.59,134.96,17.11,1.68,17
+Assembly,Night,81.19,22.21,148.68,16.23,2.96,26
+Assembly,Night,87.86,25.91,142.69,11.59,1.18,29
+Assembly,Night,85.62,35.22,128.61,9.61,3.5,24
+Quality Check,Morning,70.46,41.74,172.92,23.56,2.63,22
+Packaging,Night,81.33,54.16,168.87,9.52,2.91,15
+Assembly,Night,59.73,23.04,180.83,10.46,2.13,13
+Assembly,Night,74.42,7.98,151.36,12.34,2.89,20
+Dispatch,Night,83.18,83.11,206.23,31.48,1.65,6
+Assembly,Evening,76.34,17.37,150.42,14.52,0.86,29
+Assembly,Morning,79.47,56.73,169.41,20.91,3.57,6
+Packaging,Night,72.87,40.63,164.24,13.25,5.0,16
+Dispatch,Night,86.29,45.03,153.59,19.6,3.81,12
+Assembly,Night,74.2,39.97,142.55,16.52,3.97,13
+Quality Check,Morning,70.35,32.3,160.9,6.9,3.07,16
+Quality Check,Evening,83.87,49.28,141.8,21.36,3.61,13
+Assembly,Morning,60.95,31.23,174.5,19.54,5.18,14
+Quality Check,Evening,80.01,63.33,161.59,23.52,3.14,29
+Packaging,Night,64.58,51.37,170.22,17.87,2.59,6
+Quality Check,Night,87.78,51.99,154.28,13.02,2.11,20
+Quality Check,Morning,72.39,29.86,157.95,2.93,5.08,24
+Packaging,Morning,76.35,35.27,160.15,16.08,3.11,11
+Assembly,Evening,79.13,16.24,157.29,17.85,0.0,6
+Dispatch,Evening,55.7,32.94,169.43,19.92,2.75,5
+Assembly,Morning,68.49,19.27,161.57,16.97,3.15,23
+Assembly,Evening,85.44,66.26,198.72,19.57,3.76,8
+Assembly,Morning,83.68,41.01,161.44,21.59,2.54,28
+Packaging,Evening,77.83,43.41,161.98,21.13,4.16,26
+Quality Check,Morning,61.51,35.5,164.3,13.21,3.4,6
+Assembly,Morning,80.86,43.95,159.74,19.98,0.99,29
+Packaging,Morning,82.13,89.3,179.01,20.71,2.4,18
+Assembly,Evening,75.47,34.0,162.71,17.8,3.57,6
+Quality Check,Evening,87.23,26.99,147.45,7.55,2.9,19
+Assembly,Evening,68.17,50.59,154.2,11.48,2.34,16
+Quality Check,Morning,69.9,0.0,143.89,15.29,3.15,9
+Packaging,Evening,50.15,41.28,195.41,20.88,7.18,24
+Dispatch,Evening,84.2,32.57,148.19,18.05,1.56,11
+Assembly,Morning,78.14,20.15,143.05,13.46,3.75,28
+Assembly,Night,58.18,50.16,169.77,5.57,1.99,25
+Assembly,Morning,57.41,41.08,160.14,15.79,4.99,14
+Dispatch,Evening,66.27,3.95,157.67,12.86,2.79,18
+Dispatch,Morning,82.94,27.07,148.08,11.39,3.26,18
+Assembly,Night,72.0,0.0,150.12,6.44,2.11,9
+Quality Check,Morning,66.95,45.87,189.27,24.1,3.94,22
+Dispatch,Evening,64.94,45.67,184.66,16.55,2.84,28
+Packaging,Night,64.49,24.13,157.46,15.89,3.06,18
+Packaging,Evening,55.66,50.8,187.4,21.49,4.66,6
+Assembly,Night,62.93,14.35,152.12,7.15,3.42,16
+Assembly,Night,64.29,20.67,153.88,14.07,4.17,26
+Dispatch,Morning,81.83,48.34,166.97,23.85,2.72,28
+Dispatch,Morning,73.34,26.23,148.74,23.03,3.4,10
+Quality Check,Evening,66.74,38.75,147.76,16.01,4.11,8
+Assembly,Morning,98.1,28.73,129.88,13.12,1.75,17
+Assembly,Morning,68.36,31.78,161.31,16.11,2.59,8
+Quality Check,Night,86.67,32.66,165.47,16.12,2.13,26
+Dispatch,Morning,91.21,25.86,137.64,20.81,3.63,18
+Dispatch,Night,59.3,46.05,185.31,11.93,4.15,20
+Quality Check,Night,75.74,27.44,154.19,12.72,2.37,8
+Quality Check,Night,69.82,40.31,180.59,10.46,3.91,28
+Assembly,Evening,69.01,25.43,171.62,8.75,4.02,29
+Assembly,Evening,80.55,9.31,152.91,13.28,3.49,5
+Dispatch,Evening,68.77,58.25,162.59,22.79,2.58,17
+Quality Check,Night,70.04,49.99,176.03,14.25,2.82,8
+Assembly,Evening,73.32,85.77,200.4,26.73,2.66,24
+Assembly,Evening,71.27,19.12,158.27,18.43,3.08,22
+Quality Check,Morning,63.26,35.82,177.25,25.05,4.38,10
+Assembly,Evening,82.96,37.43,156.67,15.96,3.15,7
+Assembly,Evening,85.49,59.79,160.04,15.77,3.1,27
+Packaging,Night,78.44,29.86,138.19,9.47,4.43,17
+Quality Check,Night,71.23,16.58,146.5,6.98,4.13,20
+Quality Check,Night,67.95,64.16,210.92,25.87,3.46,9
+Assembly,Night,67.96,33.67,160.97,7.47,2.42,8
+Quality Check,Night,98.57,57.57,136.09,24.72,1.36,25
+Assembly,Night,84.38,55.24,172.97,13.94,2.52,12
+Assembly,Evening,66.6,39.4,178.92,12.48,4.5,23
+Quality Check,Night,76.65,36.51,173.46,14.72,3.14,18
+Quality Check,Night,71.37,32.17,166.91,11.31,2.78,11
+Dispatch,Morning,80.84,39.7,167.6,20.61,2.23,18
+Quality Check,Evening,80.43,57.26,188.41,27.66,2.91,10
+Packaging,Evening,85.84,24.07,138.32,10.32,3.6,16
+Assembly,Evening,66.49,42.18,162.67,14.17,5.27,20
+Packaging,Night,76.05,17.63,138.79,11.83,2.99,21
+Assembly,Night,57.51,20.12,163.4,15.72,4.08,17
+Assembly,Night,62.43,39.38,188.02,15.14,2.66,27
+Dispatch,Morning,83.84,0.8,138.69,17.06,4.75,18
+Packaging,Night,65.49,81.21,201.22,27.91,2.32,11
+Dispatch,Morning,66.59,16.14,138.22,6.49,4.84,18
+Quality Check,Evening,74.92,39.2,156.65,18.48,2.89,19
+Quality Check,Night,81.95,63.36,154.1,27.11,2.3,16
+Packaging,Morning,64.39,22.74,173.84,10.94,2.67,21
+Packaging,Morning,40.19,0.0,183.7,8.53,7.4,13
+Packaging,Night,66.3,31.1,173.42,12.02,3.91,26
+Assembly,Evening,87.06,22.5,133.99,10.84,2.67,19
+Quality Check,Evening,78.43,0.0,152.08,1.66,3.97,16
+Assembly,Evening,88.24,45.7,154.3,10.21,1.94,6
+Assembly,Morning,63.68,44.14,163.4,17.01,3.82,9
+Quality Check,Morning,58.61,62.85,181.18,26.99,4.13,17
+Assembly,Morning,79.63,17.58,142.55,9.57,2.51,24
+Dispatch,Morning,77.4,8.02,143.39,7.99,4.33,27
+Dispatch,Evening,78.06,31.87,155.06,23.29,2.88,12
+Dispatch,Night,84.33,38.23,141.35,10.19,1.23,18
+Packaging,Morning,79.22,58.43,183.82,10.46,2.74,19
+Assembly,Morning,79.06,68.21,176.18,16.09,3.3,15
+Dispatch,Evening,82.15,64.29,165.72,16.33,2.0,5
+Packaging,Night,80.02,45.53,174.4,8.09,2.18,25
+Dispatch,Night,83.57,55.99,154.9,17.76,2.28,7
+Dispatch,Evening,85.09,27.19,131.96,18.82,3.97,21
+Dispatch,Evening,90.32,43.37,166.49,10.08,2.0,23
+Assembly,Night,68.51,16.17,173.81,12.86,5.0,18
+Packaging,Morning,79.81,41.25,156.29,18.17,2.39,26
+Dispatch,Night,71.3,41.77,167.57,15.85,3.76,27
+Assembly,Evening,66.66,74.44,179.87,22.09,3.22,12
+Assembly,Morning,68.1,35.42,166.82,16.3,4.35,17
+Packaging,Morning,79.95,41.8,156.36,12.21,1.88,24
+Dispatch,Evening,79.18,44.74,162.48,24.2,3.78,7
+Quality Check,Evening,79.0,30.9,159.43,20.87,3.16,9
+Packaging,Evening,72.74,23.95,145.19,19.54,2.72,13
+Assembly,Night,75.03,65.98,175.94,24.96,3.08,10
+Quality Check,Night,83.18,20.38,127.65,5.18,4.37,29
+Dispatch,Morning,60.11,13.44,156.43,16.65,4.13,26
+Assembly,Evening,75.25,53.61,171.03,21.32,2.53,6
+Packaging,Morning,75.9,63.16,179.46,11.79,2.0,17
+Dispatch,Morning,82.53,30.97,154.95,13.57,3.38,9
+Quality Check,Morning,61.5,31.28,178.61,16.08,4.12,29
+Quality Check,Morning,89.95,45.65,140.03,25.17,3.2,12
+Quality Check,Evening,77.14,25.84,138.93,17.5,1.68,27
+Packaging,Morning,77.67,24.37,157.78,9.33,1.94,5
+Assembly,Evening,70.99,57.59,157.38,27.12,4.6,24
+Dispatch,Evening,80.38,52.14,168.81,18.04,3.31,16
+Dispatch,Night,75.48,66.22,167.55,18.65,3.76,27
+Dispatch,Evening,87.09,14.95,155.03,10.61,1.68,15
+Dispatch,Night,60.59,29.95,172.01,6.37,2.99,11
+Packaging,Evening,76.76,45.62,163.78,16.29,4.15,19
+Packaging,Evening,79.09,21.49,161.9,15.71,4.08,26
+Quality Check,Evening,73.14,52.83,162.56,16.0,2.25,28
+Quality Check,Night,70.95,64.49,173.2,21.78,2.17,15
+Quality Check,Night,71.37,28.33,147.29,9.93,3.32,26
+Quality Check,Morning,76.75,40.77,154.42,15.41,2.36,20
+Dispatch,Night,56.9,69.11,196.56,21.95,3.33,7
+Assembly,Night,84.65,75.99,182.81,22.35,1.52,24
+Packaging,Night,70.2,54.92,186.4,10.21,3.02,18
+Assembly,Night,76.28,51.87,151.85,15.59,2.03,7
+Packaging,Morning,78.67,22.93,149.1,21.83,1.97,5
+Assembly,Night,69.74,47.18,161.44,14.62,3.81,25
+Packaging,Evening,73.69,51.14,169.68,17.75,3.26,19
+Packaging,Evening,54.65,35.79,201.1,14.94,4.75,5
+Assembly,Night,82.32,28.1,153.92,22.06,1.23,21
+Packaging,Night,85.8,14.37,148.98,18.61,2.72,6
+Assembly,Evening,57.99,5.25,176.36,14.82,6.18,24
+Assembly,Evening,70.94,1.04,155.15,5.29,3.08,10
+Dispatch,Morning,62.7,51.59,176.31,19.53,4.69,12
+Packaging,Evening,73.22,42.95,154.44,19.28,4.15,20
+Assembly,Evening,81.49,30.32,152.7,11.06,3.79,23
+Packaging,Night,84.87,33.37,146.45,10.65,2.92,5
+Quality Check,Evening,86.22,44.21,142.31,25.16,3.26,7
+Assembly,Morning,88.11,36.71,153.95,14.0,3.29,7
+Quality Check,Evening,72.78,13.19,152.35,20.05,4.0,9
+Assembly,Night,63.53,58.26,201.82,23.72,2.71,16
+Assembly,Night,73.85,46.08,164.95,18.95,1.6,16
+Packaging,Evening,81.33,45.32,164.93,19.06,1.38,24
+Packaging,Night,62.73,56.75,177.21,11.51,3.59,17
+Quality Check,Morning,91.6,23.73,149.69,14.59,3.01,24
+Quality Check,Morning,83.98,64.27,170.14,26.73,1.7,13
+Dispatch,Evening,72.93,37.2,152.25,18.99,4.28,11
+Packaging,Evening,67.89,57.77,180.22,19.44,3.1,8
+Assembly,Evening,68.31,54.69,182.07,26.76,3.09,23
+Quality Check,Night,75.74,19.22,153.49,11.96,2.38,26
+Assembly,Morning,72.71,50.06,182.33,14.41,1.48,23
+Packaging,Morning,84.51,46.53,145.83,17.75,3.0,10
+Assembly,Night,71.57,40.61,158.68,19.92,5.13,17
+Assembly,Morning,80.06,38.11,165.22,7.13,2.93,15
+Dispatch,Evening,74.71,38.28,155.95,17.17,1.41,17
+Dispatch,Evening,77.7,56.25,174.0,22.49,3.9,17
+Quality Check,Evening,72.7,51.56,148.58,16.39,1.74,29
+Packaging,Morning,82.08,40.61,185.86,21.63,1.69,26
+Assembly,Evening,82.23,10.16,137.62,14.73,2.65,24
+Assembly,Night,79.6,49.89,178.19,28.19,3.14,19
+Assembly,Night,81.08,54.47,164.45,14.42,1.94,25
+Packaging,Morning,65.56,86.01,203.31,27.05,3.44,17
+Quality Check,Night,78.23,61.51,189.24,14.14,3.8,26
+Quality Check,Night,87.49,2.02,142.87,2.23,3.48,15
+Assembly,Morning,79.91,41.57,158.97,6.06,4.26,23
+Dispatch,Evening,64.69,76.23,192.63,24.13,5.67,12
+Quality Check,Evening,74.5,52.47,181.92,18.79,4.08,24
+Packaging,Evening,78.75,46.57,188.28,14.59,2.85,12
+Quality Check,Morning,67.43,58.0,182.78,9.83,4.49,14
+Packaging,Night,61.42,27.55,186.97,10.68,4.4,20
+Assembly,Evening,71.84,49.56,169.85,17.45,3.91,23
+Packaging,Evening,67.59,34.99,176.44,19.21,3.8,27
+Quality Check,Morning,74.86,39.61,174.89,15.86,2.35,15
+Assembly,Evening,59.09,56.57,182.57,19.75,3.02,17
+Assembly,Morning,80.65,21.47,140.89,11.34,2.87,13
+Assembly,Night,68.65,65.76,195.99,28.61,3.72,24
+Assembly,Morning,84.96,31.54,145.64,9.64,2.07,28
+Dispatch,Morning,72.23,45.21,160.4,13.29,3.81,23
+Quality Check,Morning,74.75,11.99,140.56,9.34,5.34,20
+Packaging,Morning,73.27,54.4,168.67,20.87,1.59,11
+Assembly,Night,68.12,68.93,195.43,15.15,4.18,23
+Packaging,Night,99.72,29.71,143.2,15.13,1.95,16
+Packaging,Evening,70.04,17.8,161.8,13.49,3.95,19
+Assembly,Night,85.24,45.56,163.36,13.36,2.31,27
+Packaging,Night,64.06,69.1,184.27,22.01,3.65,18
+Packaging,Evening,78.72,11.0,150.6,6.61,3.19,15
+Quality Check,Night,79.79,17.87,158.72,7.1,2.71,14
+Quality Check,Morning,74.76,30.92,164.59,15.14,1.74,15
+Assembly,Morning,69.29,23.59,163.22,5.24,3.3,10
+Packaging,Evening,72.37,23.66,148.63,2.82,1.97,6
+Quality Check,Evening,70.97,0.0,145.34,12.66,4.1,15
+Packaging,Evening,99.02,51.78,143.65,23.01,0.18,23
+Dispatch,Morning,74.77,46.77,168.01,14.68,4.29,10
+Quality Check,Night,80.25,6.02,123.01,7.56,3.42,18
+Assembly,Morning,92.82,69.14,150.91,25.4,2.79,24
+Assembly,Evening,66.24,73.62,189.27,15.32,1.52,10
+Quality Check,Night,75.38,24.98,149.2,6.93,2.9,21
+Assembly,Night,72.31,63.33,181.22,23.04,4.54,14
+Packaging,Morning,74.14,28.54,156.47,14.33,2.77,5
+Dispatch,Evening,73.21,43.62,167.91,21.87,2.26,7
+Packaging,Morning,67.68,23.28,165.91,2.79,2.98,12
+Packaging,Night,76.95,84.29,184.38,15.64,3.08,12
+Quality Check,Morning,64.37,34.08,166.75,15.18,2.93,24
+Packaging,Morning,84.89,42.53,172.16,18.47,3.99,26
+Packaging,Evening,81.23,26.24,150.79,18.17,2.87,19
+Dispatch,Evening,70.07,77.23,188.49,22.46,2.94,28
+Packaging,Night,70.55,77.73,191.02,22.48,2.17,11
+Dispatch,Morning,77.76,72.62,179.75,18.95,3.6,15
+Dispatch,Morning,67.01,59.13,174.77,26.82,4.11,11
+Assembly,Morning,93.12,27.5,132.03,8.61,1.55,8
+Assembly,Night,78.58,56.56,163.44,20.28,0.83,29
+Assembly,Night,78.93,39.86,169.5,11.04,3.46,16
+Assembly,Evening,81.81,66.25,168.0,22.61,2.72,10
+Assembly,Evening,69.21,62.32,180.48,14.16,3.88,18
+Quality Check,Evening,85.89,27.01,154.5,17.77,4.66,16
+Assembly,Morning,76.15,58.96,171.67,19.4,3.17,15
+Assembly,Morning,84.5,53.64,170.92,26.77,2.26,23
+Dispatch,Evening,73.02,0.0,126.18,8.59,2.2,25
+Assembly,Morning,88.17,56.02,161.75,20.53,2.28,9
+Dispatch,Evening,79.01,31.36,156.4,10.81,3.21,18
+Assembly,Night,96.83,22.28,136.14,11.9,2.21,25
+Assembly,Evening,71.3,23.13,140.31,14.0,5.16,28
+Quality Check,Night,77.05,37.3,172.77,7.96,3.65,20
+Quality Check,Morning,64.68,49.6,169.47,10.35,3.63,29
+Dispatch,Evening,69.71,12.69,155.2,14.9,2.81,17
+Quality Check,Morning,81.19,43.8,161.41,15.84,3.21,29
+Dispatch,Night,86.29,51.54,171.92,14.77,1.78,26
+Assembly,Night,100.0,77.24,188.22,17.9,2.18,26
+Assembly,Night,74.03,18.47,138.95,9.28,3.79,29
+Quality Check,Morning,65.67,33.01,160.78,15.51,3.5,24
+Dispatch,Morning,82.53,45.23,163.0,19.01,2.24,26
+Dispatch,Morning,63.72,62.95,175.74,8.98,1.63,8
+Packaging,Morning,80.64,33.92,163.66,22.15,4.11,15
+Packaging,Night,69.98,63.97,190.84,26.3,3.9,21
+Quality Check,Night,77.12,1.25,144.65,-1.47,3.57,11
+Assembly,Evening,85.91,14.93,142.6,17.67,1.14,18
+Dispatch,Evening,73.89,46.97,182.77,22.32,4.69,15
+Dispatch,Morning,84.33,11.78,128.05,11.77,2.32,26
+Packaging,Night,83.73,16.51,143.57,5.99,2.52,13
+Quality Check,Night,56.36,29.44,165.19,19.49,3.11,27
+Quality Check,Night,65.98,55.43,189.37,17.11,1.91,17
+Assembly,Evening,59.38,2.08,135.41,13.06,5.19,27
+Dispatch,Evening,95.02,43.41,149.75,27.61,3.54,22
+Packaging,Night,73.95,60.66,180.59,20.36,3.14,15
+Dispatch,Night,92.81,36.1,137.94,10.83,1.68,19
+Assembly,Night,58.67,32.62,166.38,13.21,3.69,29
+Dispatch,Evening,69.27,48.04,173.56,13.26,3.19,29
+Packaging,Night,83.0,36.16,164.84,17.59,1.65,26
+Assembly,Night,76.79,67.81,168.92,16.14,2.87,23
+Dispatch,Morning,80.33,17.77,137.82,10.3,3.14,5
+Assembly,Morning,62.46,38.97,184.67,9.42,4.9,8
+Assembly,Evening,88.77,44.11,152.72,15.96,2.58,18
+Dispatch,Night,82.77,32.43,145.47,15.75,1.29,18
+Dispatch,Night,79.02,0.0,144.07,-3.42,3.4,7
+Packaging,Morning,68.14,36.78,162.67,16.82,3.34,21
+Quality Check,Evening,78.24,58.0,182.49,18.47,4.46,7
+Packaging,Morning,72.09,55.56,169.03,14.51,4.83,20
+Assembly,Morning,58.5,47.1,179.87,27.21,5.54,18
+Assembly,Morning,74.5,18.04,160.68,17.5,2.71,24
+Quality Check,Morning,73.43,47.91,167.73,11.7,5.32,17
+Quality Check,Night,85.62,28.53,156.18,18.47,3.07,19
+Quality Check,Night,52.66,47.07,185.46,23.28,5.99,18
+Quality Check,Morning,77.35,42.43,183.39,17.02,2.63,28
+Assembly,Evening,63.44,20.47,177.22,14.88,3.53,29
+Packaging,Evening,78.19,22.15,137.46,15.01,3.36,23
+Assembly,Evening,78.74,47.1,170.49,6.64,3.21,10
+Packaging,Evening,74.13,35.58,153.88,14.4,4.55,14
+Packaging,Morning,83.07,23.19,149.37,12.28,2.61,19
+Dispatch,Night,62.54,21.54,163.58,20.38,5.04,25
+Packaging,Evening,86.08,33.92,140.94,16.76,3.43,26
+Assembly,Morning,67.92,71.36,199.07,19.22,3.39,24
+Assembly,Evening,59.44,29.48,172.17,13.97,4.68,10
+Quality Check,Evening,72.28,39.72,163.16,21.07,2.91,27
+Quality Check,Morning,54.05,42.03,177.6,15.38,6.65,29
+Assembly,Night,77.54,17.38,149.79,9.12,0.46,14
+Assembly,Night,72.41,4.74,149.0,9.33,4.05,11
+Quality Check,Morning,87.34,19.47,140.56,17.62,0.87,26
+Assembly,Night,81.49,44.94,133.45,19.22,2.7,21
+Dispatch,Morning,61.08,41.75,176.35,16.48,3.86,22
+Quality Check,Morning,66.62,54.05,164.72,19.06,5.18,21
+Assembly,Morning,80.21,41.93,158.9,13.49,2.3,13
+Assembly,Night,83.47,37.81,141.86,14.7,4.13,14
+Dispatch,Morning,87.23,27.92,132.81,10.87,1.46,14
+Packaging,Evening,87.15,57.69,177.25,17.18,3.99,29
+Packaging,Night,74.1,21.62,150.49,19.97,2.82,11
+Dispatch,Night,78.63,17.79,143.81,7.28,3.14,20
+Dispatch,Night,87.99,51.34,165.24,14.26,2.26,22
+Dispatch,Night,71.97,13.34,146.72,5.73,4.68,10
+Quality Check,Evening,78.8,88.3,210.98,15.89,4.15,24
+Packaging,Night,71.73,41.6,164.84,15.31,3.86,5
+Assembly,Night,69.49,46.96,176.23,13.96,2.37,5
+Quality Check,Morning,75.48,23.83,163.62,22.38,2.51,16
+Packaging,Night,68.12,33.69,181.74,13.64,2.57,25
+Packaging,Evening,73.69,31.46,152.51,21.17,1.07,6
+Dispatch,Evening,64.65,29.16,161.6,19.21,5.03,8
+Assembly,Evening,73.1,52.66,185.86,16.85,3.02,21
+Packaging,Evening,79.48,31.01,163.12,25.2,2.69,8
+Assembly,Night,69.11,60.35,191.67,20.4,5.04,15
+Packaging,Night,75.09,93.26,182.2,31.55,2.77,26
+Assembly,Evening,76.39,34.09,174.82,22.1,2.34,8
+Assembly,Evening,79.53,43.05,154.59,18.53,2.8,5
+Assembly,Night,73.66,47.59,171.55,20.89,2.18,11
+Quality Check,Evening,85.86,76.23,175.57,24.55,3.05,22
+Quality Check,Morning,53.99,38.35,171.03,10.03,3.93,13
+Packaging,Evening,100.0,23.42,119.93,13.8,1.49,7
+Dispatch,Evening,66.29,14.67,138.33,17.57,3.09,12
+Packaging,Morning,79.03,38.84,161.27,23.46,2.94,28
+Assembly,Morning,65.62,31.03,150.87,11.05,3.8,23
+Dispatch,Night,81.44,80.2,171.63,24.67,2.41,8
+Assembly,Night,77.77,75.4,180.85,22.06,2.75,22
+Dispatch,Morning,68.49,19.31,130.41,12.31,3.49,24
+Assembly,Morning,85.73,25.78,154.68,15.65,2.53,15
+Dispatch,Night,73.36,41.48,142.1,17.31,3.36,18
+Assembly,Evening,80.47,67.94,175.62,22.9,2.3,29
+Dispatch,Morning,65.83,41.14,172.17,23.38,4.71,22
+Packaging,Night,74.69,27.06,161.86,17.98,3.36,20
+Dispatch,Evening,95.03,38.82,146.85,17.38,1.74,7
+Assembly,Morning,84.63,27.43,168.93,23.44,3.11,19
+Packaging,Evening,78.08,52.05,170.93,23.36,3.02,8
+Dispatch,Night,70.51,25.82,169.62,13.41,1.74,9
+Packaging,Morning,75.67,29.79,150.1,8.38,3.56,21
+Quality Check,Evening,76.98,63.24,177.57,14.55,2.13,11
+Quality Check,Morning,79.49,24.63,166.66,18.36,3.96,20
+Packaging,Evening,64.23,11.08,152.88,8.51,3.55,18
+Quality Check,Night,81.68,41.9,161.72,11.24,3.7,20
+Packaging,Night,64.1,32.79,178.2,11.13,3.16,11
+Dispatch,Morning,91.31,50.23,149.67,14.1,2.5,13
+Assembly,Evening,67.28,46.35,152.37,21.21,4.85,8
+Assembly,Morning,77.97,39.36,163.8,15.12,2.83,26
+Dispatch,Morning,85.05,38.78,165.11,8.95,2.16,15
+Dispatch,Evening,72.48,25.28,143.67,13.95,4.03,6
+Packaging,Evening,78.41,41.67,168.98,17.36,3.72,16
+Quality Check,Evening,89.35,57.63,169.86,16.25,1.98,16
+Assembly,Night,80.64,20.53,125.07,18.86,0.98,8
+Assembly,Morning,78.56,39.89,151.73,13.88,2.46,22
+Packaging,Morning,58.15,60.77,185.98,24.66,4.77,25
+Packaging,Night,65.66,50.11,175.74,20.5,2.94,11
+Packaging,Evening,85.47,66.19,163.91,24.56,2.72,5
+Assembly,Night,80.7,28.64,144.65,8.8,2.31,27
+Dispatch,Night,82.21,3.38,152.97,11.0,0.96,17
+Dispatch,Night,81.35,44.01,160.25,16.34,2.26,10
